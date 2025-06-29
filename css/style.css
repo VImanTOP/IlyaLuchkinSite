@@ -146,7 +146,7 @@ h1, h2 {
 }
 
 .certificate img {
-  max-width: 100%;
+  width: 400px;
   height: auto;
   border: 1px solid #ccc;
   border-radius: 8px;
